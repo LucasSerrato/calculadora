@@ -63,6 +63,28 @@ This project was developed as part of a practical exercise in an academic contex
 
 ---
 
+## 🤝 Contributions | Contribuições
+
+Feel free to fork the project and submit pull requests. Suggestions and improvements are always welcome!  
+Sinta-se à vontade para bifurcar o projeto e enviar pull requests. Sugestões e melhorias são sempre bem-vindas!
+
+---
+
+## 📧 Contact | Contato
+
+**Lucas Serrato**  
+[LinkedIn](https://www.linkedin.com/in/lucasserrato201)  
+📩 alfalifeclothes@gmail.com  
+☕ [Donate / Doe](https://livepix.gg/lkshow)
+
+---
+
+## 📢 Academic Note | Nota Acadêmica
+
+This project represents the intersection of **technology, education, and design**, reinforcing the academic formation and practical skills of the student.
+
+Este projeto representa a interseção entre **tecnologia, educação e design**, reforçando a formação acadêmica e as habilidades práticas do aluno.
+
 
 
 
